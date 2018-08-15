@@ -1,2 +1,3 @@
-# pre-migration_linux
-discovery and pre-migration tasks for Linux Rsync migration projects
+# Migration_Prework
+
+designed to automate a lot of the 'busywork' pre-migration 
